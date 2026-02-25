@@ -1,0 +1,34 @@
+h1{
+    color: red;
+}
+h2{
+ color: blue;
+}
+h3{
+color: chartreuse;
+}
+h4{
+color: cyan;
+}
+h5{
+color: chocolate;
+}
+h6{
+color: blueviolet;
+}
+.premierP{
+color: darkgoldenrod;
+}
+.deuxiemeP{
+    color: olivedrab;
+}
+.img1{
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+}
+.img2
+{
+    width: 500px;
+    height: 500px;
+}
